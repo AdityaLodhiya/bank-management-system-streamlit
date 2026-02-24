@@ -1,0 +1,26 @@
+# SecureCore Banking System Dependencies
+
+# Database
+mysql-connector-python==8.2.0
+
+# Security
+bcrypt==4.1.2
+
+# Environment management
+python-dotenv==1.0.0
+
+# Web UI (Streamlit) — desktop UI (CustomTkinter) removed
+
+# Testing
+hypothesis==6.92.1
+pytest==7.4.3
+
+# Date handling
+python-dateutil==2.8.2
+
+# Logging
+colorlog==6.8.0
+
+# Web UI (Streamlit)
+streamlit>=1.36.0
+pandas>=2.0.0
